@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Blog version of the app
+https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components
+
 ## Available Scripts
 
 In the project directory, you can run:
